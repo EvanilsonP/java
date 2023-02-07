@@ -25,8 +25,4 @@ public class Math {
         System.out.println(area);
 
     }
-
-    private static int abs(int i) {
-        return 0;
-    }
 };
